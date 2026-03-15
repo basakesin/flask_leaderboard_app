@@ -1,0 +1,241 @@
+customer_id,age,gender,city_tier,tenure_months,subscription_type,contract_type,avg_monthly_spend_usd,website_visits_last_30d,app_sessions_last_30d,support_tickets_last_90d,late_payments_last_12m,discount_usage_rate,email_open_rate,nps_score,products_owned,returns_last_12m,days_since_last_purchase,marketing_channel,estimated_clv_usd,clv_segment,recommended_action
+CUST100001,34,Male,Tier 2,11,Standard,Monthly,65.25,12,14,2,1,0.237,0.473,17,6,1,79,Organic Search,771.09,Low,Targeted win-back campaign
+CUST100008,31,Male,Tier 2,42,Standard,Monthly,30.9,14,18,2,0,0.216,0.461,9,2,2,51,Organic Search,809.58,Low,Loyalty program nurture
+CUST100013,18,Female,Tier 1,16,Standard,Monthly,185.75,18,17,5,3,0.675,0.346,-1,4,0,40,Social Media,2320.95,Medium,Targeted win-back campaign
+CUST100014,18,Male,Tier 2,6,Premium,Monthly,74.46,16,28,4,0,0.106,0.418,5,4,3,80,Organic Search,656.74,Low,Targeted win-back campaign
+CUST100020,52,Male,Tier 2,4,Standard,Quarterly,59.26,16,15,1,1,0.137,0.616,72,2,0,52,Organic Search,569.29,Low,Loyalty program nurture
+CUST100021,34,Female,Tier 2,2,Basic,Monthly,158.23,16,19,0,2,0.332,0.822,44,3,0,144,Paid Ads,1099.7,Low,Targeted win-back campaign
+CUST100034,45,Male,Tier 3,63,Premium,Annual,150.28,13,25,1,1,0.081,0.572,30,4,2,83,Organic Search,5964.61,High,Loyalty program nurture
+CUST100036,38,Other,Tier 3,8,Standard,Monthly,119.34,12,15,2,1,0.656,0.506,87,3,0,61,Referral,1078.24,Low,Targeted win-back campaign
+CUST100040,44,Female,Tier 3,47,Standard,Quarterly,159.17,12,23,0,1,0.16,0.556,18,5,2,31,Organic Search,5345.46,High,Loyalty program nurture
+CUST100053,43,Female,Tier 3,52,Standard,Annual,185.75,11,16,2,0,0.796,0.534,30,3,0,51,Email,6024.49,High,Loyalty program nurture
+CUST100064,45,Male,Tier 2,63,Basic,Quarterly,20.0,12,17,5,3,0.38,0.391,39,4,1,76,Paid Ads,595.35,Low,Targeted win-back campaign
+CUST100087,40,Female,Tier 3,20,Premium,Annual,74.62,13,19,1,0,0.201,0.502,16,4,0,69,Organic Search,1389.42,Medium,Loyalty program nurture
+CUST100091,47,Male,Tier 1,50,Premium,Monthly,84.48,12,21,1,0,0.329,0.335,43,3,0,33,Email,2661.68,Medium,Loyalty program nurture
+CUST100095,20,Male,Tier 3,22,Standard,Annual,127.53,11,17,2,2,0.345,0.428,77,3,2,12,Paid Ads,2363.56,Medium,Loyalty program nurture
+CUST100098,36,Female,Tier 3,44,Basic,Quarterly,176.09,12,24,4,1,0.539,0.299,28,3,2,144,Email,3793.86,High,Immediate retention offer
+CUST100103,27,Female,Tier 1,68,Standard,Monthly,105.88,11,21,4,0,0.4,0.556,29,4,1,32,Organic Search,4461.78,High,Loyalty program nurture
+CUST100112,37,Male,Tier 3,66,Standard,Quarterly,59.35,14,12,2,0,0.103,0.593,69,2,1,9,Organic Search,2176.96,Medium,Loyalty program nurture
+CUST100119,44,Male,Tier 2,16,Premium,Monthly,120.29,7,14,2,3,0.468,0.562,66,2,0,17,Social Media,1785.91,Medium,Loyalty program nurture
+CUST100121,26,Male,Tier 1,46,Standard,Annual,71.11,18,16,1,0,0.229,0.537,19,4,1,20,Organic Search,2230.01,Medium,Loyalty program nurture
+CUST100122,51,Female,Tier 3,39,Basic,Monthly,214.38,17,14,2,3,0.497,0.605,41,2,0,37,Social Media,5335.92,High,Cross-sell premium bundle
+CUST100130,19,Female,Tier 2,12,Basic,Quarterly,80.37,18,17,3,2,0.135,0.503,20,4,4,19,Paid Ads,886.08,Low,Targeted win-back campaign
+CUST100134,26,Male,Tier 1,71,Premium,Monthly,110.11,10,19,1,1,0.507,0.713,48,3,0,121,Social Media,4540.57,High,Loyalty program nurture
+CUST100143,38,Male,Tier 2,67,Standard,Quarterly,169.56,12,10,2,0,0.201,0.436,50,4,1,27,Organic Search,7062.17,High,Loyalty program nurture
+CUST100146,22,Female,Tier 1,27,Basic,Monthly,77.62,12,11,0,1,0.541,0.376,26,2,1,15,Paid Ads,1525.23,Medium,Loyalty program nurture
+CUST100147,21,Female,Tier 3,54,Premium,Monthly,194.3,6,19,3,4,0.346,0.537,78,3,2,31,Email,6481.85,High,Loyalty program nurture
+CUST100150,39,Other,Tier 2,16,Basic,Annual,137.44,16,23,2,0,0.719,0.484,35,4,2,41,Email,2289.75,Medium,Loyalty program nurture
+CUST100151,40,Male,Tier 1,2,Basic,Quarterly,148.92,9,19,3,1,0.71,0.73,82,1,0,20,Organic Search,1221.14,Medium,Loyalty program nurture
+CUST100159,43,Female,Tier 1,60,Basic,Monthly,140.17,10,22,2,1,0.607,0.543,69,6,3,55,Paid Ads,5940.4,High,Loyalty program nurture
+CUST100161,45,Male,Tier 1,40,Basic,Monthly,166.45,7,18,2,0,0.427,0.369,29,3,4,39,Social Media,4473.07,High,Loyalty program nurture
+CUST100166,45,Female,Tier 1,57,Standard,Monthly,29.16,19,19,0,0,0.258,0.802,-12,5,1,35,Paid Ads,1129.95,Low,Loyalty program nurture
+CUST100186,41,Female,Tier 2,31,Standard,Monthly,113.04,9,19,3,2,0.157,0.803,-1,3,1,37,Paid Ads,1924.79,Medium,Targeted win-back campaign
+CUST100187,35,Male,Tier 1,57,Standard,Quarterly,96.34,11,14,0,1,0.184,0.52,43,8,3,14,Organic Search,4311.22,High,Loyalty program nurture
+CUST100189,19,Female,Tier 2,29,Basic,Annual,29.26,10,15,2,0,0.505,0.712,26,8,0,22,Paid Ads,820.55,Low,Loyalty program nurture
+CUST100197,38,Male,Tier 1,14,Standard,Monthly,121.9,12,23,4,0,0.38,0.796,62,4,1,28,Referral,1911.39,Medium,Loyalty program nurture
+CUST100200,40,Male,Tier 1,22,Basic,Annual,152.25,7,18,4,2,0.302,0.707,6,5,0,21,Social Media,2359.87,Medium,Targeted win-back campaign
+CUST100201,42,Female,Tier 3,70,Premium,Monthly,158.62,6,19,2,1,0.47,0.682,2,2,2,21,Social Media,6095.24,High,Cross-sell premium bundle
+CUST100202,48,Male,Tier 3,36,Standard,Monthly,102.45,9,15,2,2,0.243,0.82,-38,6,0,111,Email,3005.88,High,Loyalty program nurture
+CUST100205,26,Female,Tier 2,22,Premium,Monthly,119.92,15,22,0,2,0.121,0.388,39,4,3,16,Email,1762.82,Medium,Targeted win-back campaign
+CUST100206,42,Other,Tier 3,61,Basic,Monthly,173.31,16,12,1,1,0.503,0.266,9,5,2,14,Social Media,5305.45,High,Immediate retention offer
+CUST100207,42,Male,Tier 2,56,Basic,Annual,140.49,8,16,1,1,0.33,0.694,-8,4,2,25,Email,3820.63,High,Immediate retention offer
+CUST100216,27,Female,Tier 3,16,Standard,Monthly,159.82,13,18,1,2,0.422,0.864,56,6,2,85,Organic Search,2214.31,Medium,Targeted win-back campaign
+CUST100219,37,Female,Tier 2,68,Standard,Monthly,240.37,12,24,3,0,0.54,0.479,14,2,0,29,Referral,6770.02,High,Immediate retention offer
+CUST100230,28,Female,Tier 2,44,Basic,Quarterly,99.64,8,22,0,0,0.302,0.741,90,1,1,82,Organic Search,2532.85,Medium,Loyalty program nurture
+CUST100232,37,Female,Tier 2,41,Standard,Monthly,144.82,9,20,0,1,0.673,0.343,75,6,1,44,Referral,4642.45,High,Loyalty program nurture
+CUST100241,35,Male,Tier 3,62,Standard,Annual,108.58,14,20,2,1,0.126,0.877,39,3,1,23,Email,4024.7,High,Loyalty program nurture
+CUST100246,31,Female,Tier 1,5,Premium,Annual,56.64,18,9,1,0,0.663,0.407,36,2,0,89,Email,568.85,Low,Loyalty program nurture
+CUST100252,59,Male,Tier 2,45,Standard,Monthly,116.52,12,13,3,1,0.179,0.816,5,5,1,32,Referral,3792.73,High,Loyalty program nurture
+CUST100253,47,Male,Tier 3,69,Standard,Monthly,128.63,7,17,0,0,0.146,0.455,10,2,1,60,Referral,4886.65,High,Cross-sell premium bundle
+CUST100262,18,Male,Tier 2,20,Standard,Monthly,143.11,10,16,0,0,0.794,0.311,79,2,1,84,Referral,2374.67,Medium,Loyalty program nurture
+CUST100269,37,Male,Tier 2,66,Standard,Quarterly,30.76,12,15,2,1,0.485,0.589,26,5,1,26,Social Media,1334.98,Medium,Loyalty program nurture
+CUST100276,38,Male,Tier 1,3,Standard,Monthly,80.72,11,21,2,0,0.228,0.504,38,4,2,54,Organic Search,830.61,Low,Loyalty program nurture
+CUST100279,32,Other,Tier 2,69,Standard,Monthly,94.61,16,23,0,1,0.196,0.821,47,3,1,50,Social Media,2860.3,Medium,Targeted win-back campaign
+CUST100288,39,Female,Tier 2,60,Basic,Monthly,50.13,12,16,1,0,0.543,0.5,1,1,1,64,Referral,1603.16,Medium,Loyalty program nurture
+CUST100293,45,Female,Tier 3,72,Standard,Monthly,196.75,8,15,3,1,0.307,0.731,56,4,5,142,Paid Ads,6507.51,High,Immediate retention offer
+CUST100295,28,Male,Tier 2,42,Standard,Monthly,152.56,8,16,5,2,0.288,0.496,14,3,1,108,Email,3180.88,High,Immediate retention offer
+CUST100297,39,Female,Tier 2,23,Standard,Monthly,59.17,9,18,1,0,0.174,0.56,50,3,0,29,Organic Search,843.02,Low,Targeted win-back campaign
+CUST100303,43,Male,Tier 2,39,Premium,Annual,108.43,10,9,2,1,0.278,0.166,48,2,0,44,Paid Ads,2698.82,Medium,Re-engagement email journey
+CUST100315,36,Male,Tier 2,64,Basic,Monthly,89.53,13,24,2,0,0.386,0.316,100,3,1,61,Paid Ads,3401.54,High,Loyalty program nurture
+CUST100317,33,Male,Tier 1,46,Standard,Annual,143.86,9,17,4,0,0.154,0.517,43,3,2,31,Email,4265.93,High,Loyalty program nurture
+CUST100330,36,Female,Tier 1,26,Premium,Monthly,54.56,14,14,1,0,0.681,0.616,83,1,1,94,Social Media,738.2,Low,Targeted win-back campaign
+CUST100337,32,Female,Tier 2,13,Basic,Annual,162.39,9,15,3,0,0.408,0.785,-4,4,2,26,Social Media,2466.7,Medium,Loyalty program nurture
+CUST100343,30,Female,Tier 3,11,Standard,Monthly,132.43,11,18,1,1,0.546,0.297,82,4,0,37,Organic Search,1411.37,Medium,Targeted win-back campaign
+CUST100345,39,Female,Tier 3,45,Standard,Monthly,114.27,15,26,1,1,0.267,0.318,31,6,3,54,Social Media,3911.46,High,Loyalty program nurture
+CUST100378,60,Male,Tier 2,60,Basic,Monthly,38.5,9,18,1,2,0.575,0.504,55,3,1,25,Paid Ads,1391.39,Medium,Loyalty program nurture
+CUST100379,27,Male,Tier 1,34,Standard,Quarterly,111.99,6,20,3,0,0.118,0.818,75,5,1,85,Organic Search,3008.8,High,Loyalty program nurture
+CUST100384,28,Male,Tier 3,4,Premium,Annual,94.46,15,20,0,4,0.346,0.677,30,4,0,44,Email,1018.28,Low,Loyalty program nurture
+CUST100385,38,Male,Tier 2,1,Basic,Monthly,172.8,10,17,3,1,0.342,0.377,8,4,1,45,Social Media,1206.58,Medium,Targeted win-back campaign
+CUST100387,57,Male,Tier 2,50,Premium,Monthly,114.04,7,23,3,0,0.109,0.645,31,6,1,40,Organic Search,3160.05,High,Immediate retention offer
+CUST100391,41,Female,Tier 1,24,Basic,Monthly,64.66,18,19,2,0,0.227,0.643,39,1,2,32,Organic Search,1113.45,Low,Loyalty program nurture
+CUST100392,21,Female,Tier 1,36,Standard,Monthly,194.52,13,15,3,1,0.386,0.671,56,4,1,100,Referral,5147.0,High,Loyalty program nurture
+CUST100397,51,Male,Tier 1,18,Premium,Monthly,94.92,6,20,1,1,0.363,0.602,5,3,4,44,Paid Ads,1187.45,Low,Targeted win-back campaign
+CUST100400,18,Female,Tier 3,16,Premium,Monthly,132.69,5,13,1,3,0.322,0.428,100,2,0,40,Email,1970.0,Medium,Loyalty program nurture
+CUST100401,29,Female,Tier 2,47,Premium,Monthly,96.8,14,21,0,2,0.298,0.484,53,4,0,62,Social Media,2312.31,Medium,Targeted win-back campaign
+CUST100402,36,Female,Tier 2,59,Standard,Monthly,137.73,9,17,2,1,0.376,0.596,4,3,1,64,Referral,4913.75,High,Loyalty program nurture
+CUST100403,37,Female,Tier 1,31,Basic,Annual,178.29,9,16,1,3,0.405,0.513,85,7,1,24,Social Media,4979.64,High,Loyalty program nurture
+CUST100406,24,Other,Tier 2,17,Basic,Quarterly,116.23,9,17,2,1,0.138,0.229,31,2,3,22,Paid Ads,1776.38,Medium,Re-engagement email journey
+CUST100414,40,Male,Tier 1,30,Basic,Quarterly,97.57,7,14,1,3,0.446,0.52,-10,7,0,21,Organic Search,2002.14,Medium,Targeted win-back campaign
+CUST100418,49,Female,Tier 3,36,Standard,Quarterly,126.97,13,14,1,0,0.141,0.304,9,5,2,26,Organic Search,3542.46,High,Loyalty program nurture
+CUST100419,37,Female,Tier 1,18,Standard,Annual,121.34,13,13,1,1,0.303,0.371,33,1,0,60,Email,1790.98,Medium,Loyalty program nurture
+CUST100421,55,Female,Tier 2,71,Premium,Annual,86.19,16,15,1,2,0.08,0.234,48,6,0,82,Referral,4167.86,High,Re-engagement email journey
+CUST100441,36,Male,Tier 3,62,Basic,Annual,69.05,13,23,3,2,0.239,0.597,17,6,2,16,Referral,3001.37,High,Loyalty program nurture
+CUST100452,25,Female,Tier 2,37,Standard,Monthly,82.47,11,26,3,1,0.422,0.89,-1,3,3,56,Organic Search,1576.21,Medium,Targeted win-back campaign
+CUST100455,27,Female,Tier 3,59,Premium,Quarterly,84.41,13,16,3,1,0.78,0.904,43,4,3,32,Social Media,3184.79,High,Loyalty program nurture
+CUST100459,23,Male,Tier 2,22,Basic,Annual,90.22,11,15,1,1,0.288,0.194,44,6,2,23,Paid Ads,1960.78,Medium,Re-engagement email journey
+CUST100463,38,Female,Tier 2,42,Premium,Monthly,150.01,12,11,4,0,0.379,0.435,2,2,4,30,Email,2947.7,Medium,Targeted win-back campaign
+CUST100466,43,Male,Tier 1,55,Basic,Annual,153.75,8,13,4,0,0.155,0.464,59,2,0,37,Email,4901.04,High,Cross-sell premium bundle
+CUST100472,19,Other,Tier 2,49,Standard,Monthly,108.16,9,16,2,0,0.267,0.406,6,4,2,49,Email,3550.89,High,Loyalty program nurture
+CUST100474,54,Male,Tier 1,58,Basic,Monthly,78.2,14,28,1,0,0.319,0.602,18,6,0,62,Social Media,3229.14,High,Loyalty program nurture
+CUST100484,28,Female,Tier 1,15,Premium,Monthly,121.25,7,14,1,1,0.277,0.7,32,3,2,60,Social Media,1853.91,Medium,Loyalty program nurture
+CUST100488,55,Female,Tier 1,10,Basic,Annual,57.28,9,14,0,0,0.18,0.747,59,2,1,32,Social Media,700.34,Low,Loyalty program nurture
+CUST100492,37,Male,Tier 2,12,Premium,Monthly,102.4,11,17,1,0,0.319,0.694,59,7,1,66,Paid Ads,1751.04,Medium,Loyalty program nurture
+CUST100502,21,Female,Tier 2,45,Basic,Quarterly,40.56,10,15,1,2,0.551,0.624,77,7,3,158,Organic Search,1456.51,Medium,Loyalty program nurture
+CUST100508,37,Female,Tier 2,71,Standard,Annual,114.4,9,17,2,1,0.628,0.126,67,7,1,69,Paid Ads,5803.51,High,Re-engagement email journey
+CUST100510,39,Male,Tier 1,71,Standard,Monthly,88.02,15,18,0,0,0.319,0.401,66,3,3,180,Social Media,2722.24,Medium,Targeted win-back campaign
+CUST100520,18,Female,Tier 2,12,Basic,Monthly,33.63,9,19,5,1,0.473,0.788,32,4,1,21,Paid Ads,494.36,Low,Loyalty program nurture
+CUST100524,28,Female,Tier 2,36,Basic,Annual,98.45,14,17,3,0,0.148,0.723,8,2,2,53,Social Media,1741.09,Medium,Targeted win-back campaign
+CUST100540,45,Male,Tier 3,57,Basic,Annual,191.57,12,14,3,0,0.44,0.761,62,3,3,95,Paid Ads,6657.06,High,Loyalty program nurture
+CUST100550,37,Male,Tier 1,8,Standard,Monthly,32.49,13,24,0,0,0.196,0.579,47,2,0,112,Social Media,368.87,Low,Loyalty program nurture
+CUST100556,31,Male,Tier 1,69,Premium,Monthly,148.19,6,13,3,1,0.107,0.711,45,4,0,54,Referral,6317.34,High,Loyalty program nurture
+CUST100562,46,Female,Tier 2,63,Standard,Monthly,108.15,13,16,2,1,0.245,0.693,10,4,2,83,Paid Ads,4292.47,High,Loyalty program nurture
+CUST100563,32,Female,Tier 2,55,Premium,Annual,86.17,17,20,1,0,0.697,0.322,32,3,2,81,Organic Search,2914.56,Medium,Loyalty program nurture
+CUST100564,49,Female,Tier 2,19,Premium,Monthly,117.02,12,23,4,0,0.436,0.882,0,5,3,107,Referral,2237.03,Medium,Loyalty program nurture
+CUST100565,32,Male,Tier 1,35,Premium,Monthly,139.0,12,20,0,0,0.264,0.47,14,2,1,47,Referral,3216.92,High,Cross-sell premium bundle
+CUST100571,54,Male,Tier 3,65,Standard,Quarterly,108.79,14,21,1,1,0.527,0.604,2,3,0,60,Organic Search,3137.78,High,Immediate retention offer
+CUST100577,44,Male,Tier 2,55,Premium,Monthly,76.27,15,27,1,0,0.386,0.519,48,2,0,149,Organic Search,2431.23,Medium,Loyalty program nurture
+CUST100586,31,Male,Tier 3,26,Standard,Monthly,86.7,6,15,2,2,0.226,0.312,15,3,1,87,Organic Search,1325.64,Medium,Targeted win-back campaign
+CUST100592,41,Male,Tier 3,28,Standard,Monthly,158.05,14,19,2,0,0.651,0.401,16,3,1,98,Social Media,2526.43,Medium,Targeted win-back campaign
+CUST100600,44,Male,Tier 1,25,Standard,Annual,155.62,10,19,3,0,0.306,0.467,69,3,4,35,Social Media,3100.47,High,Loyalty program nurture
+CUST100608,18,Female,Tier 2,18,Basic,Annual,142.77,10,13,0,2,0.203,0.877,6,4,2,31,Referral,2518.46,Medium,Loyalty program nurture
+CUST100610,43,Female,Tier 3,57,Premium,Monthly,144.57,8,17,3,1,0.223,0.745,-13,7,0,68,Social Media,6180.37,High,Loyalty program nurture
+CUST100612,39,Male,Tier 3,45,Basic,Annual,183.06,3,17,7,1,0.23,0.644,-2,2,0,70,Paid Ads,5035.98,High,Cross-sell premium bundle
+CUST100623,51,Female,Tier 2,57,Standard,Quarterly,128.42,15,17,1,0,0.597,0.676,64,2,0,30,Organic Search,4205.75,High,Cross-sell premium bundle
+CUST100624,54,Female,Tier 1,31,Basic,Monthly,63.89,6,15,1,2,0.335,0.831,70,4,1,28,Organic Search,1534.0,Medium,Loyalty program nurture
+CUST100627,35,Male,Tier 3,45,Basic,Monthly,132.35,6,12,1,0,0.16,0.63,10,3,2,66,Social Media,3863.3,High,Loyalty program nurture
+CUST100632,34,Female,Tier 1,41,Premium,Quarterly,125.7,11,19,1,0,0.424,0.375,-5,4,1,125,Referral,3633.99,High,Loyalty program nurture
+CUST100639,22,Male,Tier 2,6,Standard,Annual,123.61,11,17,4,1,0.649,0.505,19,3,1,36,Referral,1374.54,Medium,Loyalty program nurture
+CUST100640,32,Male,Tier 1,45,Basic,Monthly,196.94,13,15,1,0,0.127,0.793,47,7,0,39,Organic Search,7072.12,High,Loyalty program nurture
+CUST100641,54,Male,Tier 2,14,Basic,Monthly,134.41,16,20,2,1,0.211,0.398,52,3,2,56,Email,1494.64,Medium,Targeted win-back campaign
+CUST100642,33,Female,Tier 1,66,Standard,Monthly,139.27,17,24,0,1,0.437,0.593,11,1,1,21,Email,4796.46,High,Cross-sell premium bundle
+CUST100645,33,Male,Tier 1,24,Standard,Monthly,79.86,10,19,1,0,0.23,0.827,24,4,0,32,Social Media,1643.52,Medium,Loyalty program nurture
+CUST100646,18,Female,Tier 3,19,Standard,Annual,36.49,13,24,3,2,0.634,0.77,66,4,0,43,Organic Search,496.17,Low,Targeted win-back campaign
+CUST100647,35,Female,Tier 3,18,Basic,Annual,73.53,14,16,2,0,0.323,0.518,51,5,0,45,Email,1367.66,Medium,Loyalty program nurture
+CUST100648,33,Female,Tier 3,64,Basic,Annual,65.29,13,18,0,1,0.235,0.629,63,3,1,83,Paid Ads,2480.58,Medium,Loyalty program nurture
+CUST100651,48,Female,Tier 2,1,Standard,Quarterly,122.9,18,13,4,0,0.35,0.451,-21,3,2,35,Organic Search,811.45,Low,Targeted win-back campaign
+CUST100658,38,Female,Tier 3,25,Standard,Monthly,140.57,10,12,1,1,0.254,0.64,23,3,2,47,Organic Search,2800.62,Medium,Loyalty program nurture
+CUST100659,34,Male,Tier 3,16,Standard,Monthly,83.68,12,14,4,0,0.325,0.453,50,6,2,67,Paid Ads,1545.85,Medium,Loyalty program nurture
+CUST100663,30,Male,Tier 1,19,Basic,Quarterly,173.16,21,22,2,3,0.422,0.646,51,4,1,63,Social Media,3139.39,High,Loyalty program nurture
+CUST100672,32,Male,Tier 2,48,Basic,Monthly,106.12,7,14,1,0,0.341,0.703,39,2,0,60,Organic Search,3058.38,High,Cross-sell premium bundle
+CUST100681,24,Female,Tier 2,63,Standard,Monthly,163.53,10,14,0,3,0.663,0.438,27,2,1,46,Paid Ads,5784.06,High,Cross-sell premium bundle
+CUST100683,41,Female,Tier 3,9,Basic,Monthly,118.07,9,26,0,2,0.327,0.56,22,4,1,5,Social Media,1562.07,Medium,Loyalty program nurture
+CUST100686,33,Male,Tier 2,4,Basic,Annual,154.53,11,14,1,0,0.131,0.586,82,1,2,92,Organic Search,1393.86,Medium,Loyalty program nurture
+CUST100698,46,Female,Tier 3,61,Basic,Quarterly,142.74,13,17,4,2,0.363,0.267,55,5,2,34,Paid Ads,5826.17,High,Loyalty program nurture
+CUST100699,34,Male,Tier 2,8,Premium,Monthly,134.13,9,14,2,0,0.218,0.201,28,4,2,72,Email,1708.82,Medium,Re-engagement email journey
+CUST100702,28,Female,Tier 2,9,Basic,Annual,70.91,15,12,0,0,0.267,0.156,68,4,0,55,Paid Ads,938.14,Low,Re-engagement email journey
+CUST100709,55,Female,Tier 2,37,Standard,Monthly,104.16,14,13,3,1,0.28,0.304,10,5,2,9,Paid Ads,2959.88,Medium,Loyalty program nurture
+CUST100710,38,Female,Tier 2,52,Basic,Monthly,169.81,11,11,1,0,0.422,0.181,38,5,1,88,Social Media,4606.1,High,Immediate retention offer
+CUST100719,35,Male,Tier 2,29,Basic,Quarterly,138.23,10,15,2,0,0.287,0.422,-22,3,0,29,Paid Ads,3010.19,High,Loyalty program nurture
+CUST100725,34,Male,Tier 2,55,Premium,Monthly,141.66,16,12,5,2,0.312,0.541,71,2,0,29,Referral,4515.65,High,Cross-sell premium bundle
+CUST100729,27,Male,Tier 2,70,Standard,Annual,135.84,15,26,2,0,0.167,0.343,60,5,0,35,Organic Search,6176.19,High,Loyalty program nurture
+CUST100742,29,Male,Tier 1,55,Premium,Monthly,101.11,5,19,4,1,0.147,0.48,26,3,1,56,Organic Search,3419.88,High,Loyalty program nurture
+CUST100747,28,Female,Tier 1,49,Basic,Monthly,59.1,12,15,3,0,0.525,0.795,17,2,3,127,Paid Ads,1296.8,Medium,Targeted win-back campaign
+CUST100748,29,Female,Tier 3,16,Standard,Monthly,138.13,22,14,2,1,0.419,0.598,27,3,1,35,Organic Search,1632.01,Medium,Targeted win-back campaign
+CUST100751,21,Female,Tier 2,42,Standard,Quarterly,97.55,13,21,2,1,0.419,0.324,38,5,0,33,Referral,3024.05,High,Loyalty program nurture
+CUST100763,35,Male,Tier 1,18,Basic,Quarterly,38.49,10,15,5,1,0.38,0.274,-15,4,1,19,Paid Ads,678.96,Low,Loyalty program nurture
+CUST100766,36,Other,Tier 3,25,Standard,Quarterly,156.31,11,16,1,0,0.548,0.552,51,3,3,39,Organic Search,2335.66,Medium,Targeted win-back campaign
+CUST100769,56,Female,Tier 1,24,Basic,Quarterly,189.04,14,21,1,1,0.534,0.582,26,4,0,35,Paid Ads,3890.44,High,Loyalty program nurture
+CUST100775,19,Female,Tier 1,51,Standard,Monthly,146.73,11,22,2,2,0.206,0.637,36,1,1,83,Paid Ads,4150.99,High,Cross-sell premium bundle
+CUST100776,28,Male,Tier 1,48,Standard,Monthly,20.0,11,13,1,0,0.384,0.636,25,4,3,59,Paid Ads,646.8,Low,Loyalty program nurture
+CUST100778,35,Male,Tier 3,54,Basic,Annual,117.75,8,14,1,0,0.127,0.673,40,4,1,31,Organic Search,4154.22,High,Loyalty program nurture
+CUST100779,43,Female,Tier 2,56,Basic,Annual,41.99,14,16,0,2,0.443,0.531,100,3,1,70,Paid Ads,1439.7,Medium,Loyalty program nurture
+CUST100791,38,Female,Tier 1,56,Basic,Quarterly,99.18,8,23,2,1,0.318,0.723,26,3,2,34,Social Media,3400.55,High,Loyalty program nurture
+CUST100794,24,Female,Tier 1,3,Basic,Quarterly,84.79,15,16,2,1,0.252,0.832,-2,6,2,31,Organic Search,967.45,Low,Loyalty program nurture
+CUST100795,48,Female,Tier 1,7,Basic,Monthly,121.08,13,14,3,1,0.396,0.524,34,6,0,39,Organic Search,1644.67,Medium,Loyalty program nurture
+CUST100804,31,Male,Tier 2,63,Standard,Monthly,59.1,10,17,3,1,0.167,0.748,12,6,1,82,Social Media,1950.74,Medium,Targeted win-back campaign
+CUST100805,33,Male,Tier 2,37,Basic,Monthly,100.38,19,21,2,0,0.321,0.415,50,5,0,112,Email,2139.35,Medium,Targeted win-back campaign
+CUST100815,20,Male,Tier 2,61,Premium,Quarterly,72.43,14,16,1,1,0.434,0.308,15,3,1,61,Referral,2651.18,Medium,Loyalty program nurture
+CUST100819,48,Male,Tier 2,23,Basic,Quarterly,111.17,7,15,2,0,0.337,0.333,1,4,2,50,Organic Search,2233.41,Medium,Loyalty program nurture
+CUST100831,26,Male,Tier 2,32,Premium,Monthly,126.11,10,19,3,0,0.225,0.549,22,3,1,30,Paid Ads,2921.55,Medium,Loyalty program nurture
+CUST100835,39,Female,Tier 3,62,Standard,Annual,111.19,15,24,1,1,0.061,0.21,7,3,1,20,Social Media,4121.44,High,Re-engagement email journey
+CUST100840,35,Male,Tier 1,38,Basic,Monthly,44.19,12,16,3,0,0.25,0.734,19,6,0,40,Referral,1344.55,Medium,Loyalty program nurture
+CUST100851,30,Male,Tier 2,43,Basic,Annual,71.51,14,28,4,4,0.723,0.423,33,3,1,57,Organic Search,1515.83,Medium,Targeted win-back campaign
+CUST100854,52,Female,Tier 1,2,Standard,Annual,75.78,19,13,3,0,0.511,0.219,33,2,0,27,Referral,661.81,Low,Re-engagement email journey
+CUST100856,27,Male,Tier 1,39,Standard,Monthly,174.04,14,18,4,0,0.353,0.715,46,3,1,40,Paid Ads,4596.4,High,Loyalty program nurture
+CUST100860,38,Other,Tier 3,20,Standard,Quarterly,111.37,11,15,2,2,0.441,0.733,60,4,2,108,Referral,2073.71,Medium,Loyalty program nurture
+CUST100863,56,Female,Tier 1,51,Premium,Monthly,168.36,10,21,2,1,0.295,0.443,44,2,1,75,Organic Search,5072.69,High,Cross-sell premium bundle
+CUST100870,34,Female,Tier 3,64,Basic,Monthly,145.81,14,17,0,1,0.461,0.499,53,4,1,24,Referral,5858.65,High,Loyalty program nurture
+CUST100871,27,Female,Tier 1,22,Premium,Quarterly,163.15,13,16,3,1,0.509,0.277,58,3,0,48,Referral,2267.78,Medium,Targeted win-back campaign
+CUST100878,36,Female,Tier 1,65,Premium,Monthly,77.63,11,23,2,2,0.38,0.758,69,3,2,29,Social Media,2985.39,Medium,Loyalty program nurture
+CUST100880,64,Female,Tier 3,4,Standard,Monthly,111.6,9,10,0,0,0.444,0.622,41,2,4,79,Email,804.08,Low,Targeted win-back campaign
+CUST100883,47,Male,Tier 1,43,Premium,Monthly,159.26,11,20,2,3,0.2,0.321,-10,4,1,52,Social Media,4760.28,High,Loyalty program nurture
+CUST100891,42,Female,Tier 1,62,Premium,Annual,44.78,17,11,1,2,0.577,0.75,71,3,2,20,Organic Search,1659.85,Medium,Loyalty program nurture
+CUST100896,34,Female,Tier 2,18,Standard,Monthly,93.85,10,14,2,1,0.423,0.873,-18,5,1,73,Organic Search,1745.61,Medium,Loyalty program nurture
+CUST100897,38,Female,Tier 1,54,Basic,Annual,123.77,16,29,1,0,0.105,0.471,23,2,0,21,Referral,3891.33,High,Cross-sell premium bundle
+CUST100919,38,Female,Tier 1,21,Basic,Monthly,68.85,7,17,1,0,0.495,0.56,82,4,1,40,Referral,1315.72,Medium,Loyalty program nurture
+CUST100928,53,Female,Tier 1,27,Premium,Monthly,118.58,8,11,2,2,0.14,0.314,10,4,1,32,Email,1961.02,Medium,Targeted win-back campaign
+CUST100929,35,Male,Tier 1,38,Standard,Monthly,187.02,14,22,0,0,0.452,0.477,67,2,1,55,Paid Ads,4573.26,High,Cross-sell premium bundle
+CUST100931,57,Male,Tier 1,65,Standard,Annual,135.09,11,16,3,1,0.462,0.652,-25,2,0,113,Paid Ads,4896.11,High,Cross-sell premium bundle
+CUST100935,30,Female,Tier 1,71,Standard,Annual,133.31,16,23,1,2,0.283,0.377,44,5,1,46,Organic Search,6130.04,High,Loyalty program nurture
+CUST100945,24,Female,Tier 1,42,Basic,Quarterly,61.49,11,18,4,1,0.22,0.727,80,4,0,81,Organic Search,1807.81,Medium,Loyalty program nurture
+CUST100951,40,Female,Tier 1,38,Basic,Monthly,159.68,11,16,0,1,0.29,0.45,18,3,0,32,Organic Search,4143.16,High,Loyalty program nurture
+CUST100952,22,Male,Tier 2,14,Basic,Monthly,103.76,8,21,3,1,0.351,0.649,7,4,0,47,Paid Ads,1220.22,Medium,Targeted win-back campaign
+CUST100954,35,Male,Tier 1,22,Premium,Quarterly,115.48,9,17,1,2,0.441,0.61,32,3,0,47,Paid Ads,1605.17,Medium,Targeted win-back campaign
+CUST100955,48,Male,Tier 3,67,Standard,Quarterly,54.88,14,17,1,0,0.563,0.593,10,2,1,26,Paid Ads,2036.96,Medium,Loyalty program nurture
+CUST100957,41,Female,Tier 3,19,Standard,Quarterly,147.14,11,18,1,1,0.172,0.601,20,2,0,26,Social Media,2377.29,Medium,Loyalty program nurture
+CUST100960,43,Male,Tier 1,35,Premium,Monthly,165.32,13,21,0,0,0.44,0.505,-2,1,0,27,Paid Ads,3592.4,High,Cross-sell premium bundle
+CUST100962,38,Female,Tier 1,52,Basic,Monthly,42.05,11,13,3,1,0.668,0.619,9,3,0,79,Paid Ads,1022.87,Low,Targeted win-back campaign
+CUST100972,45,Male,Tier 1,54,Basic,Quarterly,126.81,12,15,4,3,0.205,0.562,-4,6,0,79,Email,3720.61,High,Immediate retention offer
+CUST100975,18,Female,Tier 1,65,Standard,Monthly,35.74,12,20,3,2,0.63,0.466,-29,6,1,38,Email,1611.75,Medium,Loyalty program nurture
+CUST100981,41,Other,Tier 2,7,Standard,Quarterly,94.46,10,23,2,1,0.255,0.482,68,3,2,56,Email,1094.16,Low,Loyalty program nurture
+CUST100985,23,Female,Tier 2,34,Basic,Quarterly,20.0,14,23,2,0,0.5,0.383,-21,3,2,10,Organic Search,361.4,Low,Targeted win-back campaign
+CUST100987,46,Male,Tier 2,68,Standard,Monthly,96.82,11,14,3,0,0.186,0.372,15,2,0,61,Social Media,2726.94,Medium,Targeted win-back campaign
+CUST100989,36,Female,Tier 2,71,Basic,Annual,160.07,14,13,1,1,0.359,0.176,60,6,1,47,Social Media,5805.34,High,Immediate retention offer
+CUST100995,33,Male,Tier 1,70,Standard,Monthly,137.59,10,21,1,1,0.113,0.69,34,6,0,7,Paid Ads,6578.64,High,Loyalty program nurture
+CUST101012,59,Male,Tier 1,36,Standard,Quarterly,101.49,12,19,2,0,0.309,0.441,56,4,1,115,Paid Ads,2685.43,Medium,Loyalty program nurture
+CUST101016,29,Female,Tier 2,69,Premium,Monthly,115.54,20,23,3,0,0.267,0.778,50,5,0,67,Email,5193.52,High,Loyalty program nurture
+CUST101017,31,Female,Tier 1,61,Premium,Monthly,101.16,14,20,3,3,0.161,0.771,68,5,2,38,Organic Search,4129.01,High,Loyalty program nurture
+CUST101020,42,Male,Tier 1,38,Basic,Annual,79.32,16,18,3,1,0.255,0.405,56,6,1,78,Social Media,2413.44,Medium,Loyalty program nurture
+CUST101021,30,Male,Tier 1,29,Premium,Annual,225.74,16,19,0,0,0.071,0.558,60,4,1,26,Social Media,5198.79,High,Loyalty program nurture
+CUST101025,41,Female,Tier 2,29,Standard,Monthly,157.87,15,7,3,0,0.365,0.567,27,7,1,17,Social Media,4229.34,High,Loyalty program nurture
+CUST101028,43,Other,Tier 3,41,Basic,Quarterly,191.2,8,12,3,1,0.702,0.435,25,8,0,34,Organic Search,6730.88,High,Loyalty program nurture
+CUST101030,33,Female,Tier 2,71,Basic,Monthly,80.65,16,16,1,1,0.047,0.36,20,2,1,37,Referral,3134.33,High,Cross-sell premium bundle
+CUST101038,38,Female,Tier 2,61,Basic,Monthly,119.01,14,9,4,0,0.421,0.432,53,2,0,87,Paid Ads,3079.09,High,Immediate retention offer
+CUST101044,34,Male,Tier 2,30,Premium,Annual,79.69,22,23,2,0,0.547,0.672,23,4,1,168,Social Media,1874.31,Medium,Loyalty program nurture
+CUST101048,52,Female,Tier 2,42,Standard,Annual,84.98,4,16,2,0,0.344,0.703,8,2,1,41,Paid Ads,1669.86,Medium,Targeted win-back campaign
+CUST101051,40,Female,Tier 2,56,Standard,Monthly,61.25,11,17,1,2,0.299,0.811,-19,2,2,29,Paid Ads,1979.19,Medium,Loyalty program nurture
+CUST101056,36,Female,Tier 1,27,Basic,Monthly,20.0,14,19,2,1,0.092,0.298,42,2,1,28,Referral,393.0,Low,Loyalty program nurture
+CUST101059,32,Female,Tier 1,59,Basic,Annual,124.46,16,16,4,2,0.59,0.564,11,5,2,46,Social Media,4951.43,High,Loyalty program nurture
+CUST101060,44,Male,Tier 1,58,Standard,Monthly,191.13,13,24,2,2,0.685,0.242,64,3,2,84,Referral,5047.74,High,Immediate retention offer
+CUST101064,32,Female,Tier 1,13,Basic,Monthly,116.12,17,18,1,0,0.357,0.424,44,3,1,99,Paid Ads,1250.9,Medium,Targeted win-back campaign
+CUST101071,41,Female,Tier 2,43,Basic,Monthly,80.71,14,19,3,3,0.407,0.548,85,5,2,35,Referral,2543.71,Medium,Loyalty program nurture
+CUST101076,19,Female,Tier 1,17,Premium,Monthly,97.03,12,17,0,2,0.662,0.203,51,3,2,9,Social Media,1573.5,Medium,Re-engagement email journey
+CUST101078,53,Female,Tier 2,2,Basic,Quarterly,127.42,13,18,3,0,0.164,0.8,20,6,1,35,Paid Ads,1384.63,Medium,Loyalty program nurture
+CUST101080,32,Male,Tier 3,9,Standard,Monthly,140.75,11,12,4,0,0.113,0.4,50,5,0,54,Paid Ads,1472.6,Medium,Targeted win-back campaign
+CUST101082,32,Male,Tier 1,17,Basic,Monthly,103.0,14,22,2,2,0.281,0.643,50,8,1,107,Paid Ads,1613.24,Medium,Targeted win-back campaign
+CUST101086,47,Male,Tier 2,21,Standard,Monthly,132.65,11,21,1,1,0.069,0.565,68,3,0,47,Organic Search,2396.99,Medium,Loyalty program nurture
+CUST101088,33,Other,Tier 3,55,Standard,Monthly,141.66,7,16,3,1,0.252,0.383,76,3,1,58,Referral,4791.41,High,Loyalty program nurture
+CUST101095,35,Male,Tier 2,17,Basic,Monthly,151.29,8,20,2,1,0.46,0.329,39,4,0,87,Social Media,1945.97,Medium,Targeted win-back campaign
+CUST101096,37,Female,Tier 1,14,Standard,Monthly,150.86,4,23,0,0,0.218,0.78,4,5,0,50,Referral,2494.22,Medium,Loyalty program nurture
+CUST101099,40,Male,Tier 2,4,Basic,Monthly,20.0,9,17,1,0,0.086,0.79,14,7,1,104,Email,188.1,Low,Targeted win-back campaign
+CUST101104,48,Female,Tier 2,15,Premium,Monthly,92.67,13,26,2,1,0.287,0.518,30,1,1,60,Organic Search,1253.83,Medium,Loyalty program nurture
+CUST101106,43,Male,Tier 2,52,Basic,Monthly,68.48,7,18,0,0,0.488,0.405,50,6,1,52,Referral,2604.52,Medium,Loyalty program nurture
+CUST101109,57,Male,Tier 2,26,Basic,Monthly,115.88,14,18,1,0,0.519,0.342,8,3,2,101,Organic Search,2362.41,Medium,Loyalty program nurture
+CUST101123,23,Female,Tier 1,49,Basic,Monthly,189.08,12,18,2,2,0.166,0.825,36,5,1,11,Paid Ads,6545.32,High,Loyalty program nurture
+CUST101124,54,Male,Tier 1,55,Basic,Quarterly,160.35,9,18,2,4,0.791,0.637,22,5,4,85,Email,6047.87,High,Loyalty program nurture
+CUST101126,39,Male,Tier 1,72,Standard,Annual,86.28,14,17,2,3,0.429,0.519,44,4,6,40,Paid Ads,3804.95,High,Loyalty program nurture
+CUST101129,40,Female,Tier 3,46,Basic,Monthly,55.08,4,23,2,3,0.067,0.506,32,4,2,60,Social Media,1727.31,Medium,Loyalty program nurture
+CUST101130,40,Female,Tier 2,46,Basic,Monthly,69.15,15,21,0,2,0.253,0.896,-7,2,0,23,Paid Ads,1932.51,Medium,Loyalty program nurture
+CUST101134,33,Female,Tier 3,54,Premium,Monthly,186.91,8,15,2,1,0.595,0.798,26,5,1,92,Email,6953.05,High,Loyalty program nurture
+CUST101139,44,Female,Tier 2,10,Standard,Monthly,88.39,10,12,1,0,0.396,0.472,-8,6,0,14,Email,1344.71,Medium,Loyalty program nurture
+CUST101142,34,Male,Tier 2,72,Standard,Monthly,119.35,13,18,2,1,0.414,0.426,19,3,0,29,Organic Search,4976.89,High,Loyalty program nurture
+CUST101144,34,Female,Tier 2,6,Premium,Annual,95.66,16,19,2,1,0.272,0.361,60,3,3,27,Social Media,1063.74,Low,Loyalty program nurture
+CUST101145,36,Female,Tier 2,16,Standard,Monthly,141.5,9,14,5,0,0.253,0.554,51,5,2,74,Referral,1864.26,Medium,Targeted win-back campaign
+CUST101154,54,Female,Tier 3,63,Premium,Annual,101.91,11,21,1,1,0.772,0.499,6,2,0,36,Referral,3604.56,High,Cross-sell premium bundle
+CUST101170,44,Male,Tier 2,48,Standard,Monthly,64.32,16,22,0,2,0.568,0.629,10,3,1,81,Paid Ads,1475.18,Medium,Targeted win-back campaign
+CUST101171,39,Female,Tier 3,40,Standard,Monthly,48.07,8,18,2,1,0.253,0.234,31,2,0,57,Organic Search,1217.45,Medium,Re-engagement email journey
+CUST101174,28,Male,Tier 3,48,Basic,Monthly,92.52,15,19,2,2,0.441,0.717,36,5,1,44,Email,2366.2,Medium,Targeted win-back campaign
+CUST101183,19,Female,Tier 1,66,Basic,Monthly,92.55,19,14,3,0,0.139,0.603,75,3,3,45,Organic Search,3602.05,High,Loyalty program nurture
+CUST101188,42,Other,Tier 2,64,Premium,Monthly,81.19,17,16,3,1,0.283,0.719,45,7,0,49,Referral,3794.82,High,Loyalty program nurture
+CUST101189,25,Male,Tier 1,22,Standard,Monthly,121.25,10,17,3,2,0.575,0.945,44,1,3,82,Paid Ads,1988.5,Medium,Loyalty program nurture
+CUST101196,36,Male,Tier 1,19,Standard,Quarterly,180.66,10,18,3,0,0.37,0.759,8,6,4,29,Referral,3631.87,High,Loyalty program nurture
